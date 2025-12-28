@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/J3n5en/EnsoAI/releases/download/v0.1.18/EnsoAI-0.1.18-portable.exe",
-      "hash": "PLACEHOLDER_X64_HASH"
+      "hash": "cfac4bd17023be32e7525519ac8b19c528d5d4dfa9182c5ca4933db66235490a"
     }
   },
   "bin": "EnsoAI.exe",
