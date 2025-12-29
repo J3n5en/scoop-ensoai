@@ -1,12 +1,12 @@
 {
-  "version": "",
+  "version": "0.2.6",
   "description": "Git Worktree Manager with AI Agent",
   "homepage": "https://github.com/J3n5en/EnsoAI",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/J3n5en/EnsoAI/releases/download/v/EnsoAI-Setup-.exe#/setup.exe",
-      "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+      "url": "https://github.com/J3n5en/EnsoAI/releases/download/v0.2.6/EnsoAI-Setup-0.2.6.exe#/setup.exe",
+      "hash": "56a53c807003c59cfd7b82d3f08c44cc0f157451cc8c7e09f07afdd5552b55e1"
     }
   },
   "installer": {
