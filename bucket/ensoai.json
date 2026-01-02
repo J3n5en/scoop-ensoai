@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/J3n5en/EnsoAI/releases/download/v0.2.11/EnsoAI-Setup-0.2.11.exe#/setup.exe",
-      "hash": "1942cb33bc58815617159e03fee6d76d2b1c9983f9de75d242d3e805decaf942"
+      "hash": "13dd8d4b5da512a7aee2af7652889f72b4966656a5e6d3a9cacefb8473f507bc"
     }
   },
   "installer": {
